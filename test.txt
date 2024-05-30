@@ -1,6 +1,4 @@
 1. test_case1
+something happened
 
-Something strange happened here
-
-
-Dont know what to do next and how to pull these changes into my local git rep
+2. test_case2
