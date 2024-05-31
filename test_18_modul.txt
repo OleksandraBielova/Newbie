@@ -1,3 +1,5 @@
 test case 100
+test case title: some title
+steps to reproduce: 1, 2, 3
 
 test case 200
